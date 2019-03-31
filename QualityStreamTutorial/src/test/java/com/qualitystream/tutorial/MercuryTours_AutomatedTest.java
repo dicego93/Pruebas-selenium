@@ -13,6 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class MercuryTours_AutomatedTest {
 	
 	//VARIABLES GLOBALES
+	//MODIFICACION 1
 	private WebDriver driver;
 	By registerLinkLocater = By.linkText("REGISTER");
 	By registerPageLocator = By.xpath("/html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[1]/td/img");
